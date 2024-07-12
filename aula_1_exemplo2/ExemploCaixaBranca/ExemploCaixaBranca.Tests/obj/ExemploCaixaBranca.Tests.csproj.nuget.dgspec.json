@@ -1,35 +1,33 @@
 {
   "format": 1,
   "restore": {
-    "\\\\Mac\\Home\\FIAP\\curso_qualidade_software\\aula_1_exemplo2\\ExemploCaixaBranca\\ExemploCaixaBranca.Tests\\ExemploCaixaBranca.Tests.csproj": {}
+    "/Users/robertishimurasousa/Git/CURSO_DOTNET_QUALIDADE_SOFTWARE/aula_1_exemplo2/ExemploCaixaBranca/ExemploCaixaBranca.Tests/ExemploCaixaBranca.Tests.csproj": {}
   },
   "projects": {
-    "\\\\Mac\\Home\\FIAP\\curso_qualidade_software\\aula_1_exemplo2\\ExemploCaixaBranca\\ExemploCaixaBranca.Tests\\ExemploCaixaBranca.Tests.csproj": {
+    "/Users/robertishimurasousa/Git/CURSO_DOTNET_QUALIDADE_SOFTWARE/aula_1_exemplo2/ExemploCaixaBranca/ExemploCaixaBranca.Tests/ExemploCaixaBranca.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "\\\\Mac\\Home\\FIAP\\curso_qualidade_software\\aula_1_exemplo2\\ExemploCaixaBranca\\ExemploCaixaBranca.Tests\\ExemploCaixaBranca.Tests.csproj",
+        "projectUniqueName": "/Users/robertishimurasousa/Git/CURSO_DOTNET_QUALIDADE_SOFTWARE/aula_1_exemplo2/ExemploCaixaBranca/ExemploCaixaBranca.Tests/ExemploCaixaBranca.Tests.csproj",
         "projectName": "ExemploCaixaBranca.Tests",
-        "projectPath": "\\\\Mac\\Home\\FIAP\\curso_qualidade_software\\aula_1_exemplo2\\ExemploCaixaBranca\\ExemploCaixaBranca.Tests\\ExemploCaixaBranca.Tests.csproj",
-        "packagesPath": "C:\\Users\\thiagoadriano\\.nuget\\packages\\",
-        "outputPath": "\\\\Mac\\Home\\FIAP\\curso_qualidade_software\\aula_1_exemplo2\\ExemploCaixaBranca\\ExemploCaixaBranca.Tests\\obj\\",
+        "projectPath": "/Users/robertishimurasousa/Git/CURSO_DOTNET_QUALIDADE_SOFTWARE/aula_1_exemplo2/ExemploCaixaBranca/ExemploCaixaBranca.Tests/ExemploCaixaBranca.Tests.csproj",
+        "packagesPath": "/Users/robertishimurasousa/.nuget/packages/",
+        "outputPath": "/Users/robertishimurasousa/Git/CURSO_DOTNET_QUALIDADE_SOFTWARE/aula_1_exemplo2/ExemploCaixaBranca/ExemploCaixaBranca.Tests/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\thiagoadriano\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/robertishimurasousa/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "\\\\Mac\\Home\\FIAP\\curso_qualidade_software\\aula_1_exemplo2\\ExemploCaixaBranca\\ExemploCaixaBranca\\ExemploCaixaBranca.csproj": {
-                "projectPath": "\\\\Mac\\Home\\FIAP\\curso_qualidade_software\\aula_1_exemplo2\\ExemploCaixaBranca\\ExemploCaixaBranca\\ExemploCaixaBranca.csproj"
+              "/Users/robertishimurasousa/Git/CURSO_DOTNET_QUALIDADE_SOFTWARE/aula_1_exemplo2/ExemploCaixaBranca/ExemploCaixaBranca/ExemploCaixaBranca.csproj": {
+                "projectPath": "/Users/robertishimurasousa/Git/CURSO_DOTNET_QUALIDADE_SOFTWARE/aula_1_exemplo2/ExemploCaixaBranca/ExemploCaixaBranca/ExemploCaixaBranca.csproj"
               }
             }
           }
@@ -76,33 +74,41 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.20, 7.0.20]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.20, 7.0.20]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.301/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "\\\\Mac\\Home\\FIAP\\curso_qualidade_software\\aula_1_exemplo2\\ExemploCaixaBranca\\ExemploCaixaBranca\\ExemploCaixaBranca.csproj": {
+    "/Users/robertishimurasousa/Git/CURSO_DOTNET_QUALIDADE_SOFTWARE/aula_1_exemplo2/ExemploCaixaBranca/ExemploCaixaBranca/ExemploCaixaBranca.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "\\\\Mac\\Home\\FIAP\\curso_qualidade_software\\aula_1_exemplo2\\ExemploCaixaBranca\\ExemploCaixaBranca\\ExemploCaixaBranca.csproj",
+        "projectUniqueName": "/Users/robertishimurasousa/Git/CURSO_DOTNET_QUALIDADE_SOFTWARE/aula_1_exemplo2/ExemploCaixaBranca/ExemploCaixaBranca/ExemploCaixaBranca.csproj",
         "projectName": "ExemploCaixaBranca",
-        "projectPath": "\\\\Mac\\Home\\FIAP\\curso_qualidade_software\\aula_1_exemplo2\\ExemploCaixaBranca\\ExemploCaixaBranca\\ExemploCaixaBranca.csproj",
-        "packagesPath": "C:\\Users\\thiagoadriano\\.nuget\\packages\\",
-        "outputPath": "\\\\Mac\\Home\\FIAP\\curso_qualidade_software\\aula_1_exemplo2\\ExemploCaixaBranca\\ExemploCaixaBranca\\obj\\",
+        "projectPath": "/Users/robertishimurasousa/Git/CURSO_DOTNET_QUALIDADE_SOFTWARE/aula_1_exemplo2/ExemploCaixaBranca/ExemploCaixaBranca/ExemploCaixaBranca.csproj",
+        "packagesPath": "/Users/robertishimurasousa/.nuget/packages/",
+        "outputPath": "/Users/robertishimurasousa/Git/CURSO_DOTNET_QUALIDADE_SOFTWARE/aula_1_exemplo2/ExemploCaixaBranca/ExemploCaixaBranca/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\thiagoadriano\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/robertishimurasousa/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -131,12 +137,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.20, 7.0.20]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.osx-arm64",
+              "version": "[7.0.20, 7.0.20]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.20, 7.0.20]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.301/RuntimeIdentifierGraph.json"
         }
       }
     }

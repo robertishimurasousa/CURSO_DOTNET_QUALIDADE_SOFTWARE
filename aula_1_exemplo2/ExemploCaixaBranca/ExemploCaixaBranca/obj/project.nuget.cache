@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Lk+58pvYbbPxXuTVaclBoBcjU9MGWR5KGpFoY7qx+lMBg/K1eke/YtNa6plqq4ViygnrfEj9UHW0NWYG4tyDbw==",
+  "success": true,
+  "projectFilePath": "/Users/robertishimurasousa/Git/CURSO_DOTNET_QUALIDADE_SOFTWARE/aula_1_exemplo2/ExemploCaixaBranca/ExemploCaixaBranca/ExemploCaixaBranca.csproj",
+  "expectedPackageFiles": [
+    "/Users/robertishimurasousa/.nuget/packages/microsoft.netcore.app.ref/7.0.20/microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "/Users/robertishimurasousa/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.20/microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "/Users/robertishimurasousa/.nuget/packages/microsoft.netcore.app.host.osx-arm64/7.0.20/microsoft.netcore.app.host.osx-arm64.7.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}
